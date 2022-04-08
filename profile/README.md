@@ -5,4 +5,3 @@
 
 > Kami Perusahaan pengembang Perangkat Lunak (Software) yang berpengalaman bertahun-tahun <span role="img" aria-label="fire emoji">🔥</span>. Kami menyediakan Perangkat Lunak yang berkualitas.
 
-<p align="center"><a href="https://toolsiosf.typeform.com/to/fl45kmgs" target="_blank"><img src="#" width="10%"></a>  <a href="https://twitter.com/iosf_india" target="_blank"><img src="#" width="13%"></a> </p>
