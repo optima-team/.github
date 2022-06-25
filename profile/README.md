@@ -3,5 +3,5 @@
 <h1 align="center">Optima Multi Sinergi</h1>
 <h2 align="center">Develop & Pengembangan Perangkat Lunak 😀 👨‍💻</h2>
 
-> Kami Perusahaan pengembang Perangkat Lunak (Software) yang berpengalaman bertahun-tahun <span role="img" aria-label="fire emoji">🔥</span>. Kami menyediakan Perangkat Lunak yang berkualitas.
+> Kami Perusahaan pengembang Perangkat Lunak (Software) yang berpengalaman <span role="img" aria-label="fire emoji">🔥</span>. Mengembangkan software baik untuk pemerintahan ataupun swasta.
 
